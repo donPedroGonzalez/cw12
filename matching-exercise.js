@@ -14,18 +14,13 @@ function onPageLoad() {
     
     // Exercise data - pairs to match
     exerciseData = [
-        { left: "gentil", right: "méchant", id: 2 },
-        { left: "gai", right: "triste", id: 3 },
-        { left: "réservé", right: "exubérant", id: 4 },
-        { left: "amusant", right: "ennuyeux", id: 5 },
-        { left: "modeste", right: "prétentieux", id: 6 },
-        { left: "sociable", right: "introverti", id: 7 },
-        { left: "consciencieux", right: "désinvolte", id: 8 },
-        { left: "intelligent", right: "bête", id: 9 },
-        { left: "arrogant", right: "humble", id: 10 },
-        { left: "impoli", right: "poli", id: 11 },
-        { left: "hypocrite", right: "sincère", id: 12 },
-        { left: "avare", right: "généreux", id: 13 }
+        { left: "consciencieux", right: "désinvolte", id: 2 },
+        { left: "intelligent", right: "bête", id: 3 },
+        { left: "arrogant", right: "humble", id: 4 },
+        { left: "impoli", right: "poli", id: 5 },
+        { left: "impatient", right: "patient", id: 6 },
+        { left: "hypocrite", right: "sincère", id: 7 },
+        { left: "avare", right: "généreux", id: 8 }
     ];;
     
     // Initialize state
